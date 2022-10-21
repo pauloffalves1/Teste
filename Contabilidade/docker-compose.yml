@@ -1,0 +1,18 @@
+version: '3.4'
+
+services:
+  contabilidade.api:
+    image: ${DOCKER_REGISTRY-}contabilidadeapi
+    build:
+      context: .
+      dockerfile: Contabilidade.API/Dockerfile
+    links: 
+        - "sqldata:database"
+
+  sqldata:
+    image: pauloffalves/teste:v1
+    environment:
+      - SA_PASSWORD=admin@123
+      - ACCEPT_EULA=Y
+    ports:
+      - "1433:1433"

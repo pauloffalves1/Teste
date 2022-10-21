@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uD6HITscN0vOrFzQBPxd+/45Z0RLCtxNYKIe01aIoJ+S9TXm7W3S/vWBuBDChCKmULwYREzE60OdYD+uF0DtDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paulo\\source\\repos\\Contabilidade\\Contabilidade.Domain\\Contabilidade.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulo\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Paulo\source\repos\Contabilidade\Contabilidade.Domain\bin\Debug\net6.0\Contabilidade.Domain.deps.json
+C:\Users\Paulo\source\repos\Contabilidade\Contabilidade.Domain\bin\Debug\net6.0\Contabilidade.Domain.dll
+C:\Users\Paulo\source\repos\Contabilidade\Contabilidade.Domain\bin\Debug\net6.0\Contabilidade.Domain.pdb
+C:\Users\Paulo\source\repos\Contabilidade\Contabilidade.Domain\obj\Debug\net6.0\Contabilidade.Domain.csproj.AssemblyReference.cache
+C:\Users\Paulo\source\repos\Contabilidade\Contabilidade.Domain\obj\Debug\net6.0\Contabilidade.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\source\repos\Contabilidade\Contabilidade.Domain\obj\Debug\net6.0\Contabilidade.Domain.AssemblyInfoInputs.cache
+C:\Users\Paulo\source\repos\Contabilidade\Contabilidade.Domain\obj\Debug\net6.0\Contabilidade.Domain.AssemblyInfo.cs
+C:\Users\Paulo\source\repos\Contabilidade\Contabilidade.Domain\obj\Debug\net6.0\Contabilidade.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\source\repos\Contabilidade\Contabilidade.Domain\obj\Debug\net6.0\Contabilidade.Domain.dll
+C:\Users\Paulo\source\repos\Contabilidade\Contabilidade.Domain\obj\Debug\net6.0\refint\Contabilidade.Domain.dll
+C:\Users\Paulo\source\repos\Contabilidade\Contabilidade.Domain\obj\Debug\net6.0\Contabilidade.Domain.pdb
+C:\Users\Paulo\source\repos\Contabilidade\Contabilidade.Domain\obj\Debug\net6.0\ref\Contabilidade.Domain.dll
